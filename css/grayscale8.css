@@ -1,7 +1,7 @@
 /*!
  * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LFEEFE3ICENSE-2.0.
+ * For details, see http://www.apache.org/licenses/LFBEFE1ICENSE-2.0.
  */
 
 body {
@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #4f518c;
-    background-color: #FEEFE3;
+    background-color: #FBEFE1;
 }
 
 html {
@@ -65,7 +65,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #FEEFE3;
+    background-color: #FBEFE1;
 }
 
 .navbar-custom .navbar-brand {
@@ -135,7 +135,7 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #FEEFE3;
+        background: #FBEFE1;
     }
 }
 
@@ -265,7 +265,7 @@ a:focus {
     padding: 50px 0;
     color: #4f518c;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #FEEFE3;
+    background-color: #FBEFE1;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
