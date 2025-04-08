@@ -124,7 +124,7 @@ color: RGBA(79, 81, 140, 1);
 }
 
 .navbar-custom .nav li.active a:hover {
-    color: #4f518c;
+    color: #dabfff;
 }
 
 @media(min-width:768px) {
