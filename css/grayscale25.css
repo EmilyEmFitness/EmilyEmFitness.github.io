@@ -439,8 +439,5 @@ li.plan-purchase .btn {
 }
 
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  display: inline-;
 }
