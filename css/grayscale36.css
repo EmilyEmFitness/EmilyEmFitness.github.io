@@ -389,7 +389,7 @@ body {
 }
 #Training_Process ul.Training_Process {
   list-style: none;
-  padding: 8px;
+  padding: 0;
   margin: 70px 0 30px;
   border: 1px solid #dabfff; 
   padding: 8px;
@@ -438,3 +438,10 @@ li.plan-purchase .btn {
   text-transform: uppercase;
 }
 
+
+.center_footer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
