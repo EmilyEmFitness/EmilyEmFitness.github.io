@@ -109,6 +109,7 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
     outline: 0;
+color: RGBA(79, 81, 140, 1);
     background-color: transparent;
 }
 
@@ -389,7 +390,7 @@ body {
   border: 1px solid #dabfff; 
   padding: 8px;
   text-align: center;
-  background: #ebd9fc;
+  background: #f2ebfb;
 }
 #Training_Process ul.Training_Process li {
   display: block;
