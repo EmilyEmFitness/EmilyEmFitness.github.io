@@ -406,7 +406,7 @@ body {
   height: 225px;
 }
 #Training_Process ul.Training_Process li.plan-header .price-duration {
-  position: relative;
+  position: center;
   margin-top: 15px;
   top: -16px;
   display: block;
