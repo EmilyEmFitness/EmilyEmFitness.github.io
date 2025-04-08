@@ -276,9 +276,8 @@ a:focus {
 }
 
 .about-section {
-            display: grid;
-            grid-template-columns: auto 1fr;
-            gap: 15px;
+            display: flex;
+            align-items: flex-start;
         }
 
 #map {
