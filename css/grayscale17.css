@@ -47,7 +47,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: #4f518c;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -56,7 +56,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: #907ad6;
 }
 
 .light {
@@ -82,7 +82,7 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #fff;
+    color: #4f518c;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
