@@ -394,7 +394,7 @@ body {
   border: 1px solid #dabfff; 
   padding: 8px;
   text-align: center;
-  background: #f2ebfb;
+  background: #f2ebfbaa;
 }
 #Training_Process ul.Training_Process li {
   display: block;
