@@ -151,7 +151,7 @@ color: RGBA(79, 81, 140, 1);
     display: table;
     width: 100%;
     height: auto;
-    padding: 10px 0;
+    padding: 0;
     text-align: center;
     color: #fff;
     background: url(../img/intro-bg-2.png) no-repeat bottom center scroll;
