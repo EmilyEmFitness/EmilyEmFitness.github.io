@@ -121,7 +121,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a:hover {
-    color: #fff;
+    color: #4f518c;
 }
 
 @media(min-width:768px) {
