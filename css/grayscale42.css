@@ -148,7 +148,7 @@ color: RGBA(79, 81, 140, 1);
 }
 
 .intro {
-    display: table;
+    display: block;
     width: 100%;
     height: auto;
     padding: 0;
