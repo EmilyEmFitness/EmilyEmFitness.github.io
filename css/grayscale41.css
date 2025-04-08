@@ -270,7 +270,7 @@ color: RGBA(79, 81, 140, 1);
 
 .download-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 0 0;
     color: #4f518c;
     background: url(../img/training-process.png) no-repeat center center scroll;
     background-color: #FBEFE1;
@@ -439,4 +439,9 @@ li.plan-purchase .btn {
 }
 
 
-
+.center_footer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
