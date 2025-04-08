@@ -78,6 +78,7 @@ a:focus {
 
 .navbar-custom .navbar-brand:focus {
     outline: 0;
+ color: #4f518c;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
@@ -89,6 +90,7 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle:focus,
 .navbar-custom .navbar-brand .navbar-toggle:active {
     outline: 0;
+ color: #4f518c;
 }
 
 .navbar-custom a {
