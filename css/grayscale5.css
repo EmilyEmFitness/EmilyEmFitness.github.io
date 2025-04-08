@@ -8,8 +8,8 @@ body {
     width: 100%;
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #fff;
-    background-color: #000;
+    color: #907ad6;
+    background-color: #dabfff;
 }
 
 html {
@@ -65,7 +65,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: #dabfff;
 }
 
 .navbar-custom .navbar-brand {
@@ -135,7 +135,7 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #000;
+        background: #dabfff;
     }
 }
 
@@ -190,7 +190,7 @@ a:focus {
     border: 2px solid #fff;
     border-radius: 100%!important;
     font-size: 40px;
-    color: #fff;
+    color: #907ad6;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -200,7 +200,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #907ad6;
     background: rgba(255,255,255,.1);
 }
 
@@ -263,9 +263,9 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
+    color: #907ad6;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000;
+    background-color: #dabfff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -304,17 +304,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #907ad6;
+    color: #907ad6;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #907ad6;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: #907ad6;
 }
 
 ul.banner-social-buttons {
