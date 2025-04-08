@@ -275,7 +275,7 @@ a:focus {
     -o-background-size: cover;
 }
 
-.about-section {
+.about {
             display: flex;
             align-items: flex-start;
         }
