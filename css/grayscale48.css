@@ -280,6 +280,22 @@ color: RGBA(79, 81, 140, 1);
     -o-background-size: cover;
 }
 
+
+.training_process_section {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background: url(../img/intro-bg-2.png) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .about {
             display: flex;
             align-items: flex-start;
@@ -454,10 +470,3 @@ li.plan-purchase .btn {
   justify-content: center;
 }
 
-.col-md-3 col-sm-6 {
-  width: 100vw;
-  /* elements inside won't be affected by scrollbars */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
