@@ -269,7 +269,7 @@ color: RGBA(79, 81, 140, 1);
 }
 
 .download-section {
-    width: 100%;
+    width: 100vw;
     padding: 100px 0;
     color: #4f518c;
     background: url(../img/training-process.png) no-repeat center center scroll;
