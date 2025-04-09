@@ -394,13 +394,12 @@ body {
   padding: 0;
   margin: 70px 0;
   border: 1px solid #dabfff; 
-  padding: 8px;
   text-align: center;
   background: #f2ebfb5c;
 }
 #Training_Process ul.Training_Process li {
   display: block;
-  padding: 10px;
+
 }
 #Training_Process ul.Training_Process li.plan-header { 
   padding: 15px 15px 30px;
