@@ -445,3 +445,11 @@ li.plan-purchase .btn {
   margin-right: auto;
   width: 10%;
 }
+
+.container {
+  width: 100vw;
+  /* elements inside won't be affected by scrollbars */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
