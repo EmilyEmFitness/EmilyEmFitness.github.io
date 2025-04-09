@@ -155,6 +155,7 @@ color: RGBA(79, 81, 140, 1);
     text-align: center;
     color: #fff;
     background: url(../img/intro-bg-2.png) no-repeat bottom center scroll;
+	scrollbar-gutter: stable;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -278,10 +279,7 @@ color: RGBA(79, 81, 140, 1);
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-	width: 100vw;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
 }
 
 .about {
