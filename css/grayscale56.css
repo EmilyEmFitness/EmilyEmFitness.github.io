@@ -281,6 +281,15 @@ color: RGBA(79, 81, 140, 1);
 
 }
 
+div.img.training {
+  background-image: url(../img/training-process.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  }
+
 .about {
             display: flex;
             align-items: flex-start;
