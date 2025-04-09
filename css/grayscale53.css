@@ -156,10 +156,10 @@ color: RGBA(79, 81, 140, 1);
     color: #fff;
     background: url(../img/intro-bg-2.png) no-repeat bottom center scroll;
     background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
     background-size: contain;
-    -o-background-size: cover;
+    -o-background-size: contain;
 }
 
 .intro .intro-body {
