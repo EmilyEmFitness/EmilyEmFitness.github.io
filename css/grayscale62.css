@@ -273,7 +273,7 @@ color: RGBA(79, 81, 140, 1);
 
 .download-section {
     width: 100%;
-    padding: 100px 0;
+    /*padding: 100px 0; */
     color: #4f518c;
     background: url(../img/training-process.png) no-repeat center center scroll;
     background-color: #FBEFE1;
@@ -394,7 +394,7 @@ body {
 #Training_Process ul.Training_Process {
   list-style: none;
   padding: 0;
-  margin: 70px 70px 70px 70px;
+  margin: 70px ; /* this is margins around the boxes */
   border: 1px solid #dabfff; 
   padding: 8px;
   text-align: center;
