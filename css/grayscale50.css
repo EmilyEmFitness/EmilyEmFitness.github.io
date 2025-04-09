@@ -278,6 +278,10 @@ color: RGBA(79, 81, 140, 1);
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+	width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .about {
