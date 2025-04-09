@@ -385,12 +385,12 @@ body {
 }
 
 #Training_Process {
-  padding: 100px 0 70px;
+  padding: 100px 0;
 }
 #Training_Process ul.Training_Process {
   list-style: none;
   padding: 0;
-  margin: 70px 0 30px;
+  margin: 70px 0;
   border: 1px solid #dabfff; 
   padding: 8px;
   text-align: center;
